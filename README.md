@@ -1,6 +1,6 @@
 # On the impact of publicly available news and information transfer to financial markets
 
-Code to accompany: 
+Code to accompany: https://arxiv.org/abs/2010.12002
 
 ## Scripts to reproduce results
 
